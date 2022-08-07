@@ -5,11 +5,9 @@ import styled from "styled-components";
 
 import Background from "./components/Background";
 import TextSection from "./components/TextSection";
-import Box from "./components/Box";
-import Sphere from "./components/AnimatedSphere";
 
 import "./styles.css";
-import Earthquakes2 from "./components/Earthquakes2";
+import Electron from "./components/Electron";
 
 export default function App() {
   return (
